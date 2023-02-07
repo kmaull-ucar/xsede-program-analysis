@@ -1,4 +1,4 @@
-# Findings
+# Summary Findings
 
 Using the full set of over 15k publications from the original database export, DOIs were loaded into Incites (Web of Science).  Raw metadata was also extracted from Crossref for comparison.
 
@@ -14,7 +14,19 @@ Primary findings are presented from Incites data.
 ## RESEARCH AREAS
 ```{admonition} Summary
 * more than **50 major research areas** represented
+* major publication activity in:
+    * Chemistry
+    * Materials Science
+    * Physics
+    * Astrophysics
+    * Biological sciences, and
+    * Computer Science 
+* For a more comprehensive analysis of research areas [see research areas notebook analysis]().
+
 ```
+
+There is a tremendous amount of multi-disciplinarity to the research areas and many papers overlap in their topics.  Some of the top research areas by publication counts are listed below:
+
 |Paper Count|Research Area|
 |-:|:-|
 |2985|**CHEMISTRY, PHYSICAL**|
@@ -43,7 +55,6 @@ Primary findings are presented from Incites data.
     * 45.67 cites per paper
 * **median cites**: 
     * 19 cites per paper
-
 ```
 
 * **Q3 (75%ile) cites**: 44
