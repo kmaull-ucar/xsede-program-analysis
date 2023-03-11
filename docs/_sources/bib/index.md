@@ -1,5 +1,4 @@
 # Full Publication List
 
-* All DOIs [.txt](./xsede_doi_list.txt)
-* All citations (AMS style)[.txt](), [.md](), [.docx](), [.pdf]()
-* All CrossRef metadata [.json]()
+* All DOIs {download}`[.txt] <./xsede_doi_list.txt>` file
+* All citations (IEEE citation style):  {download}`[.docx] <./all_citations_ieee.docx>`, {download}`[.pdf] <./all_citations_ieee.pdf>`
